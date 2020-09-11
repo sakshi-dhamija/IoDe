@@ -20,7 +20,6 @@ In the present scenario due to Covid-19, there is no efficient face mask detecti
 
 
 ## :file_folder: Dataset
-The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG?usp=sharing)
 
 This dataset consists of __3835 images__ belonging to two classes:
 *	__with_mask: 1916 images__
@@ -29,8 +28,7 @@ This dataset consists of __3835 images__ belonging to two classes:
 The images used were real images of faces wearing masks. 
 ## :key: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
-
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> 
 
 ## :key: Results
 
